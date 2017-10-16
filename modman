@@ -1,0 +1,4 @@
+app/code/community/Pulsestorm/Customerpage                              app/code/community/Pulsestorm/Customerpage
+app/design/frontend/base/default/layout/pulsestorm_customerpage.xml     app/design/frontend/base/default/layout/pulsestorm_customerpage.xml
+app/design/frontend/base/default/template/pulsestorm_customerpage.phtml app/design/frontend/base/default/template/pulsestorm_customerpage.phtml
+app/etc/modules/Pulsestorm_Customerpage.xml                             app/etc/modules/Pulsestorm_Customerpage.xml
