@@ -1,16 +1,5 @@
 {
-  "name":"pulsestorm/customerpage",
-  "type":"magento-module",
-  "license":"OSL-3.0",
-  "homepage":"https://github.com/Vladishev/customer-page",
-  "description":"Magento extension to show additional tab on Customer Account page.",
-  "authors":[
-    {
-      "name":"Alan Storm",
-      "email":"alanstorm@alanstorm.com"
-    }
-  ],
-  "require":{
-    "magento-hackathon/magento-composer-installer":"*"
-  }
+    "name": "custom/utils",
+    "version": "1.0",
+    "require": {}
 }
