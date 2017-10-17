@@ -1,5 +1,14 @@
 {
     "name": "customer/page",
+	"type": "magento-module",
+	"license":"OSL-3.0",
+	"description":"A short one line description of your module",
+	"authors":[
+        {
+            "name":"Author Name",
+            "email":"author@example.com"
+        }
+	],
     "version": "1.0",
-    "require": {}
+	"require": {}
 }
